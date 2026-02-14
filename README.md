@@ -1,6 +1,6 @@
-# Site do Lionel Messi (GitHub Pages)
+# Site do Superman (GitHub Pages)
 
-Site estático em português com informações sobre Lionel Messi: biografia, carreira, títulos, estatísticas e curiosidades.
+Site estático em português com informações sobre Superman: origem, poderes, aliados, vilões e legado cultural.
 
 ## Publicar no GitHub Pages
 
