@@ -27,7 +27,7 @@ body {
   min-height: 88vh;
   background:
     linear-gradient(145deg, rgba(7,11,22,0.92), rgba(16,26,51,0.92)),
-    url('https://images.unsplash.com/photo-1514302240736-b1fee5985889?auto=format&fit=crop&w=1600&q=80') center/cover;
+    url('https://upload.wikimedia.org/wikipedia/en/0/0f/Action_Comics_1.jpg') center top/cover;
   border-bottom: 1px solid rgba(255,255,255,0.08);
 }
 
@@ -185,6 +185,13 @@ h2 {
   color: var(--muted);
   font-size: 0.88rem;
 }
+
+.impact-note {
+  margin-top: 0.75rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 
 .footer {
   border-top: 1px solid rgba(255,255,255,0.08);
